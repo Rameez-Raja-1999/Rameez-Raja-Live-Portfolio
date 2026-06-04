@@ -571,3 +571,10 @@ footer {
   .stat-chip  { padding:10px 4px; }
   .stat-num   { font-size:1.1rem; }
 }
+
+.profile-pic{
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  object-fit: fill;
+}
